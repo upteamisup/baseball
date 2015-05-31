@@ -1,12 +1,12 @@
 name: Baseball - Blog
 markdown: redcarpet
 pygments: true
-name: UpTeamIsUp
-url: http://fabricioronchi.com
-domain: fabricioronchi.com
+name: upteamisup
+url: http://upteamisup.com
+domain: upteamisup.com
 author :
-  name : Fabrício Ronchi
-  email : fabricioronchii@gmail.com
-  github : https://github.com/realronchi
+  name : upteamisup
+  email : wjddkkl@koreatech.ac.kr
+  github : https://github.com/upteamisup
   twitter : https://twitter.com/realronchi
   linkedin : http://br.linkedin.com/in/realronchi
